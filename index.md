@@ -1,5 +1,5 @@
 ---
-title: First-Post
+title: "Embed Example"
 ---
 
 >Some text for the site
