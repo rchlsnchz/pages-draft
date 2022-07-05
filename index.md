@@ -1,5 +1,5 @@
 ---
-title: Welcome to proof of concept
+title: First-Post
 ---
 
 >Some text for the site
