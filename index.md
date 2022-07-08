@@ -6,7 +6,7 @@ title:
   <h1 style= "color: #015836;text-align:center" > For Growers</h1>
 </div>
 
-<div id="container">       
+<center><div id="container">       
 <form>
 <label for="username">Username:</label>
 <input type="text" id="username" name="username">
@@ -17,4 +17,4 @@ title:
 <input type="submit" value="Login">
 </div><!--/ lower-->
 </form>
-</div>
+</div></center>
