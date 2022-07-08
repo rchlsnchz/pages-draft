@@ -6,7 +6,7 @@ title:
   <h1 style= "color: #015836;text-align:center" > For Growers</h1>
 </div>
 
-.container {
+<style> .container {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -14,6 +14,7 @@ title:
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
 }
+ </stlye>
 
 <center><div id="container">       
 <form>
