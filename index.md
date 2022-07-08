@@ -13,9 +13,17 @@ title:
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }</style>
 
-<center><div id="container">       
+<center><div id="container">
+  <div class="vertical-center">
 <form>
 <label for="username">Username:</label>
 <input type="text" id="username" name="username">
@@ -27,3 +35,4 @@ title:
 </div><!--/ lower-->
 </form>
 </div></center>
+  </div>
