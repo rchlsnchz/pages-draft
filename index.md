@@ -6,6 +6,15 @@ title:
   <h1 style= "color: #015836;text-align:center" > For Growers</h1>
 </div>
 
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
 <center><div id="container">       
 <form>
 <label for="username">Username:</label>
