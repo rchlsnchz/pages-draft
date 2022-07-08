@@ -13,8 +13,7 @@ title:
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-}
- </stlye>
+}</style>
 
 <center><div id="container">       
 <form>
