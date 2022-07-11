@@ -6,25 +6,13 @@ title:
   <h1 style= "color: #015836;text-align:center" > For Growers</h1>
 </div>
 
-<style> .container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
+<style> .center {
+  padding: 70px 0;
+  border: 3px solid green;
   text-align: center;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }</style>
 
-<center><div id="container">
+<div id="container">
   <div class="vertical-center">
 <form>
 <label for="username">Username:</label>
@@ -36,5 +24,4 @@ title:
 <input type="submit" value="Login">
 </div><!--/ lower-->
 </form>
-</div></center>
-  </div>
+</div>
