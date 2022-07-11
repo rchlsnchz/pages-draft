@@ -6,19 +6,20 @@ title:
   <h1 style= "color: #015836;text-align:center" > For Growers</h1>
 </div>
 
-<style> .center {
+<style>
+.container {
   height: 200px;
   position: relative;
   border: 3px solid green;
 }
 
-.center p {
+.vertical-center {
   margin: 0;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}</style>
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}style>
 
 <div id="container">
   <div class="vertical-center">
