@@ -14,14 +14,12 @@ title:
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
 }
-.center {
-  padding: 70px 0;
-  text-align: center;
-}
+
 .vertical-center {
   margin: 0;
   position: absolute;
   top: 50%;
+  text-align: center;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }</style>
