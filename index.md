@@ -17,6 +17,13 @@ title:
 .center {
   padding: 70px 0;
   text-align: center;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }</style>
 
 <center><div id="container">
